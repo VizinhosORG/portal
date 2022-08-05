@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Vizinhos em Lisboa',
   domain: 'vizinhos.org',
-  author: 'Vizinhos em Liboa - Associação de Moradores',
+  author: 'Vizinhos em Lisboa - Associação de Moradores',
 
   // open graph metadata (optional)
   description: 'Uma nova geração de cidadania. Participe. Junte-se aos seus Vizinhos!',
