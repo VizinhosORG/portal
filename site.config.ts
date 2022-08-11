@@ -42,7 +42,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/foo': '067dd719a912471ea9a3ac10710e7fdf',
+    '/nucleos': '502555b65b0947c09921ec79ed9aff11',
     '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   },
   //pageUrlOverrides: null,
