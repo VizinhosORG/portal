@@ -57,7 +57,7 @@ export default siteConfig({
       pageId: '6d3790fa1da644188e936fcedce66068'
     },
     {
-      title: 'Núcleos Locais',
+      title: 'Núcleos',
       pageId: '502555b65b0947c09921ec79ed9aff11'
     },
     {
