@@ -43,7 +43,7 @@ export default siteConfig({
   //
   pageUrlOverrides: {
     '/nucleos': '502555b65b0947c09921ec79ed9aff11',
-    '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+    '/jornal': 'f0f07bb957fd48c58850ed6b2eb58e35'
   },
   //pageUrlOverrides: null,
 
